@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinnakotaanil.github.io/docs-019mz0/sitemap.xml
